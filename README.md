@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./src/image/app2.png">
+<img src="thumbnail.png">
 
 <h2 align="center"> 
   | TicTacToe with Minimax |
@@ -42,14 +42,14 @@ I also used two helper functions for minimax to avoid multiple lines of code for
 
 > Supervised by ??? (teacher at RTU)
 
-> Project Link: [https://github.com/PhantHive/opti_project](https://github.com/PhantHive/opti_project/)
+> Project Link: [https://github.com/PhantHive/opti_project](https://github.com/PhantHive/tictactoe/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/PhantHive/opti_project.svg?style=for-the-badge
-[contributors-url]: https://github.com/PhantHive/opti_project/graphs/contributors/
+[contributors-shield]: https://img.shields.io/github/contributors/PhantHive/tictactoe.svg?style=for-the-badge
+[contributors-url]: https://github.com/PhantHive/tictactoe/graphs/contributors/
 
-[issues-shield]: https://img.shields.io/github/issues/PhantHive/opti_project.svg?style=for-the-badge
-[issues-url]: https://github.com/PhantHive/opti_project/issues/
+[issues-shield]: https://img.shields.io/github/issues/PhantHive/tictactoe.svg?style=for-the-badge
+[issues-url]: https://github.com/PhantHive/tictactoe/issues/
 
 [school-shield]: https://img.shields.io/badge/School-RTU-0B8844?&style=for-the-badge
 [school-url]: https://www.rtu.lv
