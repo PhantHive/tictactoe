@@ -40,9 +40,9 @@ I also used two helper functions for minimax to avoid multiple lines of code for
 
 ### Acknowledgement
 
-> Supervised by ??? (teacher at RTU)
+> Supervised by Prof. Aleksejs Jurenoks (Professor at RTU)
 
-> Project Link: [https://github.com/PhantHive/opti_project](https://github.com/PhantHive/tictactoe/)
+> Project Link: [https://github.com/PhantHive/tictactoe](https://github.com/PhantHive/tictactoe/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/PhantHive/tictactoe.svg?style=for-the-badge
